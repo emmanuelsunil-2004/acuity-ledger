@@ -1,0 +1,9 @@
+node_modules/
+dist-build/
+dist-installer/
+stitch_output/
+*.pfx
+*.log
+stitch_lumina_wealth_ledger.zip
+.DS_Store
+Thumbs.db
